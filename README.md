@@ -1,6 +1,6 @@
 # system
 
-> A Vue.js project
+> A template project
 
 ## Build Setup
 
